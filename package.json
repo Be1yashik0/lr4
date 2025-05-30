@@ -1,0 +1,24 @@
+{
+  "name": "lr4",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/client/server.js",
+    "admin": "node src/admin/admin-server.js",
+    "chat": "node src/chat/chat.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@apollo/client": "^3.13.8",
+    "apollo-boost": "0.4.9",
+    "apollo-server-express": "^3.13.0",
+    "body-parser": "^2.2.0",
+    "bootstrap": "^5.3.5",
+    "express": "^5.1.0",
+    "graphql": "^16.11.0",
+    "graphql-tag": "^2.12.6",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
+    "ws": "^8.18.2"
+  }
+}

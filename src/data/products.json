@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Смартфон",
+    "price": 599.99,
+    "description": "Современный смартфон с 128 ГБ памяти.",
+    "categories": [
+      "Электроника"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Футболка",
+    "price": 19.99,
+    "description": "Хлопковая футболка унисекс.",
+    "categories": [
+      "Одежда"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Наушники",
+    "price": 89.99,
+    "description": "Беспроводные наушники с шумоподавлением.",
+    "categories": [
+      "Электроника"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Смарт-часы",
+    "price": 199,
+    "description": "Умные часы с функцией фитнес-трекера.",
+    "categories": [
+      "Электроника, Одежда"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Джинсы",
+    "price": 49.99,
+    "description": "Классические джинсы синего цвета.",
+    "categories": [
+      "Одежда"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "hui",
+    "price": 666,
+    "description": "big dick",
+    "categories": [
+      "huevaya"
+    ]
+  },
+  {
+    "title": "в",
+    "price": 45,
+    "description": "с",
+    "categories": [
+      "а"
+    ],
+    "id": 7
+  }
+]
